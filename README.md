@@ -18,8 +18,8 @@ A simple web application that allows users to upload and merge PDF files. Built 
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/pdf-merger-tool.git
-cd pdf-merger-tool
+git clone https://github.com/ashishg1212/pdf-merger.git
+cd pdf-merger
 
 ```
 ### **2.  Install Dependencies**
