@@ -21,26 +21,33 @@ A simple web application that allows users to upload and merge PDF files. Built 
 git clone https://github.com/yourusername/pdf-merger-tool.git
 cd pdf-merger-tool
 
-2. Install Dependencies
-bash
-Copy code
+```
+### **2.  Install Dependencies**
+```bash
 npm install
-3. Start the Application
-bash
-Copy code
+```
+
+### **3.  Start the Application**
+```bash
 npm start
-Usage
-Open your web browser and navigate to http://localhost:3000.
-Use the file upload feature to select and upload PDF files.
-Click the "Merge" button to combine the selected PDFs into a single file.
-Download the merged PDF or view it directly in your browser.
-Contributing
-If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+```
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## **Usage**
 
-css
-Copy code
+1. On the homepage, use the file upload feature to select up to 10 PDF files.
+2. Click the "Merge" button to combine the selected PDFs into a single document.
+3. The merged PDF will be available for download.
 
-Feel free to adjust the instructions according to your actual setup and requirements!
+## **Contributing**
+
+We welcome contributions! To contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test thoroughly.
+4. Submit a pull request with a clear description of your changes.
+
+## **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
